@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@aleksey2000"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/aleksey2000/YandexMyComponent/",
+  "domain": "yandex_climate_component",
+  "iot_class": "cloud_polling",
+  "name": "Yandex Climate Integration",
+  "requirements": ["requests"],
+  "version": "1.0.0"
+}
